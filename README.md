@@ -162,14 +162,4 @@ This project has been an exciting exploration of Amazon VPC and the power of AWS
 Copy code
 
 This version adds color, creative elements, and enhanced structure using Markdown. It includes flowcharts and improved organization for better clarity and interactivity.
-
-
-
-
-
-
-
-
-
-
-ChatGPT can make mistakes. Check 
+BRIAN KIMEMIA N https://briankimemia.vercel.app/
