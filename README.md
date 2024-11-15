@@ -117,7 +117,7 @@ I created a bucket in Amazon S3. Afterward, I accessed the bucket from my EC2 in
 2️⃣ Step 5: Connecting to My S3 Bucket
 Back on the EC2 instance, I connected to the S3 bucket and checked the stored objects.
 
-## ****Connecting to My S3 Bucket
+## Connecting to My S3 Bucket
 The first command I ran was:
 
 ```bash
@@ -144,7 +144,7 @@ aws s3 ls s3://nextwork-vpc-project-brian
 This verified that the test.txt file was successfully uploaded to the S3 bucket.
 ```
 
-****🖼 Visual Representation of the Architecture
+# 🖼 Visual Representation of the Architecture
 ```mermaid
 graph TD
     A[NextWork VPC] --> B[EC2 Instance]
@@ -156,7 +156,7 @@ graph TD
 ****🏁 Conclusion
 This project has been an exciting exploration of Amazon VPC and the power of AWS CLI for managing services like EC2 and S3. With VPC, I was able to set up a secure and isolated network, ensuring controlled access to my resources. The ease of managing these services via the AWS CLI was a game-changer!
 
-## ****🖥️ Check out more projects at [MY PORTFOLIO WEBSITE](https://briankimemia.vercel.app/)! 🌐
+# 🖥️ Check out more projects at [MY PORTFOLIO WEBSITE](https://briankimemia.vercel.app/)! 🌐
 
 ```vbnet
 Copy code
