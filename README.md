@@ -156,7 +156,7 @@ graph TD
 ****🏁 Conclusion
 This project has been an exciting exploration of Amazon VPC and the power of AWS CLI for managing services like EC2 and S3. With VPC, I was able to set up a secure and isolated network, ensuring controlled access to my resources. The ease of managing these services via the AWS CLI was a game-changer!
 
-🖥️ Check out more projects at NextWork.org! 🌐
+## ****🖥️ Check out more projects at [MY PORTFOLIO WEBSITE](https://briankimemia.vercel.app/)! 🌐
 
 ```vbnet
 Copy code
