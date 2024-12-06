@@ -37,7 +37,7 @@ I was pleasantly surprised by how seamlessly the **AWS CLI** integrated with the
 
 ### ⏱ **This Project Took Me...**
 
-Approximately **1 hour** to complete. It involved:
+Approximately **1 hour** to complete. It involved: 
 
 - Setting up the EC2 instance
 - Configuring the **AWS CLI**
